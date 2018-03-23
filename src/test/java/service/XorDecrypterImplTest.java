@@ -11,7 +11,7 @@ import java.util.Set;
 import static org.junit.Assert.*;
 
 /**
- * Created by tomerd on 20/01/2018.
+ * Created by tomerd.
  */
 public class XorDecrypterImplTest {
     XorDecrypter xorDecrypter;

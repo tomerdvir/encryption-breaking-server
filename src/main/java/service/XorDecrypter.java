@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Created by tomerd on 20/01/2018.
+ * Created by tomerd.
  */
 public interface XorDecrypter {
     String xorDecrypt(List<Integer> encryptedText, String key);
